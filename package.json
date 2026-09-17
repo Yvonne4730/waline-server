@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@waline/vercel": "^1.41.6"
+  }
+}
